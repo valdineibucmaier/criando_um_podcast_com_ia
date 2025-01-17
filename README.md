@@ -11,13 +11,13 @@ Episódio para download: [DattebayoCast - Porque ser otaku é nosso jeito ninja!
 Projeto com o objetivo de gerar um podcast sobre animes com as facilidades das ferramentas de IA. Tecnologias utilizadas e prompts seguem abaixo.
 
 
-💻 Tecnologias utilizadas no projeto
+💻 **Tecnologias utilizadas no projeto**
 
     ChatGPT para criação do Roteiro
     Microsoft Copilot para geração da arte da capa
     AI Voice Generator para geração do arquivo de áudio
 
-🧠 Prompts
+🧠 **Prompts**
 
 **ChatGPT:**
 - Prompt para criação do nome do podcast: Você é um roteirista de podcast e vamos criar um podcast focado em discutir sobre animes e mangás e gostaria de cinco sugestões de nomes criativos para esse podcast, esses nomes devem ter algum trocadilho nerd.
