@@ -3,9 +3,9 @@ Podcast criado com ferramentas de IA para entrega de projeto: Bootcamp DIO - CAI
 
 Criação de um episódio de podcast sobre animes com utilização de ferramentas de IA:
 
-![Texto alternativo da imagem](/)
+<img src="/capa_dattebayo_cast.png" alt="Texto alternativo da imagem" width="300"/>
 
-[DattebayoCast - Porque ser otaku é nosso jeito ninja!](/)
+[DattebayoCast - Porque ser otaku é nosso jeito ninja!](/dattebayo_cast_eleven_labs.mp3)
 
 
 Projeto com o objetivo de gerar um podcast sobre animes com as facilidades das ferramentas de IA. Tecnologias utilizadas e prompts seguem abaixo.
