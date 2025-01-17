@@ -19,7 +19,7 @@ Projeto com o objetivo de gerar um podcast sobre animes com as facilidades das f
 
 🧠 Prompts
 
-ChatGPT：
+**ChatGPT:**
 - Prompt para criação do nome do podcast: Você é um roteirista de podcast e vamos criar um podcast focado em discutir sobre animes e mangás e gostaria de cinco sugestões de nomes criativos para esse podcast, esses nomes devem ter algum trocadilho nerd.
 
 {REGRAS}
@@ -85,5 +85,5 @@ E, claro, tem o Hiei, que é o ninja mais sombrio que você vai conhecer. Apesar
 Valdinei: "E assim, galera, terminamos mais um episódio de DattebayoCast! Espero que vocês tenham curtido a nossa viagem pelo universo de Yu Yu Hakusho. Não se esqueçam de compartilhar com os amigos e seguir o podcast para não perder o próximo episódio, cheio de mais animes e mangás incríveis! Fiquem ligados, porque o mundo dos animes nunca para de surpreender. E, claro, nos vemos no próximo episódio! Dattebayo!!!"
 
 
-Microsoft Copilot:
+**Microsoft Copilot:**
 - Prompt para criação da arte da capa: imagine Um jovem de 25 anos com uma aparência realista semelhante ao Naruto, vestindo a roupa do Ash de Pokémon, usando fones de ouvido, sentado em uma mesa de podcast com um microfone. A cena deve ter uma atmosfera moderna e aconchegante, com iluminação suave, focando nos detalhes do rosto e da roupa do personagem. O fundo deve ser um estúdio de podcast profissional, com um design limpo e moderno. A imagem deve ser em formato 1:1, capturando o personagem em um ambiente descontraído e casual. --v 5 --ar 1:1
